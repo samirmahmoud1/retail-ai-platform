@@ -1,0 +1,5 @@
+{
+    "best_threshold": 0.55,
+    "model_name": "Random Forest Classifier",
+    "target": "is_conversion"
+}
