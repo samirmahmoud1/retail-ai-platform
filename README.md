@@ -84,5 +84,5 @@ It combines machine learning with modern web technologies to:
 
 ## 📡 API
 
-Base URL: https://retail-ai-platform-m9rr.vercel.app/
+Base URL: 
 
