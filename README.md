@@ -53,3 +53,36 @@ It combines machine learning with modern web technologies to:
 
 ## 🏗️ System Architecture
 
+
+---
+
+## ⚙️ Tech Stack
+
+### Frontend
+- Next.js (App Router)
+- React
+- Tailwind CSS
+- Framer Motion
+- Recharts
+- Axios
+
+### Backend
+- FastAPI
+- Uvicorn
+- Pydantic
+
+### Machine Learning
+- Scikit-learn
+- Random Forest Classifier
+- Joblib
+
+### Deployment
+- Vercel (Frontend)
+- Railway (Backend API)
+
+---
+
+## 📡 API
+
+Base URL: https://retail-ai-platform-m9rr.vercel.app/
+
