@@ -20,10 +20,10 @@ app.add_middleware(
 )
 
 # Load model
-model = joblib.load("../models/retail_conversion_model.pkl")
+model = joblib.load("models/retail_conversion_model.pkl")
 
 # Load model config
-with open("../models/model_config.json", "r") as f:
+with open("models/model_config.json", "r") as f:
     config = json.load(f)
 
 THRESHOLD = config["best_threshold"]
